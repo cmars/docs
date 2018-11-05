@@ -21,6 +21,11 @@ under each SLA, with budget estimates.
 
 ## Setting an SLA on a model
 
+!!! Note: 
+	In order to set an SLA you will need to sign in with an
+    [Ubuntu SSO account](https://login.ubuntu.com/+login), and you must have
+    logged in to [Launchpad](https://launchpad.net/+login) at least once.
+
 An SLA is set on a model with a monthly budget limit. Support costs will not be
 billed for more than this amount. If metered costs exceed this amount, the
 budget limit will need to be increased in order to continue to access support.
